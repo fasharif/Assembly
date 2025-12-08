@@ -1,7 +1,6 @@
 ; ==========================================================
 ; CP4UA53O - Computer Architecture (Element 2)
 ; Program 2: Sum all ODD numbers in a given range (inclusive)
-; Student ID: 34125387
 ; Toolchain target: x86 (Win32) MASM in Visual Studio 2022/2026
 ; Output: sum as process exit code (+ optional console print)
 ; ==========================================================
@@ -161,5 +160,6 @@ sum_done:
     ; Required: output as exit code
     invoke ExitProcess, ebx
 main ENDP
+
 
 END main
