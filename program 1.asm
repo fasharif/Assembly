@@ -1,7 +1,6 @@
 ; ==========================================================
 ; CP4UA53O - Computer Architecture (Element 2)
 ; Program 1: Least Common Multiple (LCM) of two constants
-; Student ID: 34125387
 ; Toolchain target: x86 (Win32) MASM in Visual Studio 2022/2026
 ; Output: LCM as process exit code (+ optional console print)
 ; ==========================================================
@@ -159,5 +158,6 @@ gcd_done:
     ; Required: exit code carries the result
     invoke ExitProcess, ebx
 main ENDP
+
 
 END main
