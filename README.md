@@ -1,7 +1,9 @@
 # Assembly
 low-level programming language with a very strong correspondence between the instructions in the language and the architecture's machine code instructions.
 
-Down load visual studio you will require this in your next weeks class
+To Write x86 assembly code.
+
+Download visual studio you will require this in your next weeks class
 
 https://visualstudio.microsoft.com/downloads/
 
